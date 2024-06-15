@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "vanilla_improvements_mod:sapphire_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "vanilla_improvements_mod:sapphire"
+  }
+}

@@ -1,0 +1,4 @@
+// 1.20.1	2024-06-14T15:11:15.8586987	Registries
+78e470ba0b39702f256037c2eaea9b7bd4016f03 data/vanilla_improvements_mod/forge/biome_modifier/add_sapphire_ore.json
+afd0ca3f62cffe2b0bea6c5a3e2739bcc2d0e800 data/vanilla_improvements_mod/worldgen/configured_feature/sapphire_ore.json
+ae4808cec81deb26233860322ea8974c37d071b8 data/vanilla_improvements_mod/worldgen/placed_feature/sapphire_ore_placed.json

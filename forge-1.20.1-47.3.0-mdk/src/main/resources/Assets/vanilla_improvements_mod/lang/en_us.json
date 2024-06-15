@@ -1,0 +1,9 @@
+{
+  "item.vanilla_improvements_mod.sapphire": "Sapphire",
+
+  "block.vanilla_improvements_mod.sapphire_block": "Block of Sapphire",
+  "block.vanilla_improvements_mod.sapphire_ore": "Sapphire Ore",
+  "block.vanilla_improvements_mod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "creativetab.improvements_tab" : "Improvements Tab"
+}
